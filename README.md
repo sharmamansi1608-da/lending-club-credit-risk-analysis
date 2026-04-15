@@ -24,5 +24,6 @@ This project analyzes lending data to identify borrower segments with high defau
 - Focus risk control on mid-income segments
 - Use DTI as key decision metric
 
-##  Files
-- `notebook.ipynb` → Complete analysis
+- ## 📂 Dataset
+Dataset used: https://www.kaggle.com/datasets/gabrielsantello/lending-club-loan-preprocessed-dataset
+Note: Dataset not included due to size constraints.
